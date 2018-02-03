@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Railway</string>
+    <string name="app_full_name">Indian Railways App</string>
+    <string name="app_description">Your one stop solution</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_share_app">Share App</string>
+    <string name="action_rate_review">Rate &amp; Review</string>
+
+    <string name="nav_menu_sub_title">Do More</string>
+
+    <string name="nav_menu_train_search">Train Search</string>
+    <string name="nav_menu_train_updates">Train Updates</string>
+    <string name="nav_menu_train_tracking">Train Tracking</string>
+    <string name="nav_menu_coach_layout">Coach Layout</string>
+    <string name="nav_menu_pnr_status">PNR Status</string>
+    <string name="nav_menu_reservations">Reservations</string>
+    <string name="nav_menu_favourites">Favourites</string>
+    <string name="nav_menu_helpline_numbers">Helpline Numbers</string>
+    <string name="nav_menu_register_complains">Register Complains</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="train_search_train_by_no">Train By No.</string>
+    <string name="train_search_route">Route</string>
+    <string name="train_search_seat_availability">Seat Availability</string>
+
+</resources>

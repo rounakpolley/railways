@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_train_search"
+            android:icon="@drawable/ic_menu_search_black"
+            android:title="@string/nav_menu_train_search" />
+        <item
+            android:id="@+id/menu_train_updates"
+            android:icon="@drawable/ic_menu_update_black"
+            android:title="@string/nav_menu_train_updates" />
+        <item
+            android:id="@+id/menu_train_tracking"
+            android:icon="@drawable/ic_menu_my_location_black"
+            android:title="@string/nav_menu_train_tracking" />
+        <item
+            android:id="@+id/menu_pnr_status"
+            android:icon="@drawable/ic_menu_group_black"
+            android:title="@string/nav_menu_pnr_status" />
+        <item
+            android:id="@+id/menu_reservations"
+            android:icon="@drawable/ic_menu_airline_seat_individual_suite_black"
+            android:title="@string/nav_menu_reservations" />
+        <item
+            android:id="@+id/menu_favourites"
+            android:icon="@drawable/ic_menu_favorite_border_black"
+            android:title="@string/nav_menu_favourites" />
+    </group>
+
+    <item android:title="@string/nav_menu_sub_title">
+        <menu>
+            <item
+                android:id="@+id/menu_coach_layout"
+                android:icon="@drawable/ic_menu_event_seat_black"
+                android:title="@string/nav_menu_coach_layout" />
+            <item
+                android:id="@+id/menu_helpline_numbers"
+                android:icon="@drawable/ic_menu_call_black"
+                android:title="@string/nav_menu_helpline_numbers" />
+            <item
+                android:id="@+id/menu_register_complains"
+                android:icon="@drawable/ic_menu_event_note_black"
+                android:title="@string/nav_menu_register_complains" />
+        </menu>
+    </item>
+
+</menu>
